@@ -1,4 +1,4 @@
-# Lung-Cancer-Survival-Analysis
+# Lung-Cancer-Survival-Analysis in R
 Data Cleaning of a dataset and Survival Analysis
 
 # About Dataset
